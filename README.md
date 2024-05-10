@@ -16,7 +16,7 @@
 <br>
 <br>
 
- **Github stats:**
+ <h2>Github stats:</h2>
  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dhanush-ns&show_icons=true&locale=en" alt="dhanush-ns" /></p>
 <br>
 <br>
