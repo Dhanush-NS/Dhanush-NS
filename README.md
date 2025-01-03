@@ -17,7 +17,7 @@
 <br>
 
  <h2>Github stats:</h2>
- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dachhu03&show_icons=true&locale=en" alt="dhanush-ns" /></p>
+ <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dhanush-NS&show_icons=true&locale=en" alt="dhanush-ns" /></p>
 <br>
 <br>
 <br>
