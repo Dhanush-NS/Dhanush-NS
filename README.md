@@ -52,6 +52,6 @@
 <br>
 
 
-<p>&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=syedinsaf&" alt="dhanush-ns" /></p>
+<p>&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush-NS&" alt="dhanush-ns" /></p>
 
 
